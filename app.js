@@ -3,7 +3,7 @@ const Twit = require('twit');
 const config = require('./config');
 const T = new Twit(config);
 
-setInterval(favTweet, 600000) //interval of every 10 minutes
+setInterval(favTweet, 24*60*60*1000) //interval once a day
 
 favTweet();
 
