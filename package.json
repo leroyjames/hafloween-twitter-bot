@@ -1,7 +1,7 @@
 {
   "name": "halfoween-twitter-bot",
   "version": "1.0.0",
-  "description": "Faves every mention of Halloween or hashtag therein on Twitter every 10 minutes from the @halofweenatx account.",
+  "description": "Faves every mention of Halloween or hashtag on Twitter once a day from the @halofweenatx account.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
