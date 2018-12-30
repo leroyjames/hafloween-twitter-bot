@@ -1,13 +1,13 @@
 {
   "name": "halfoween-twitter-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Faves every mention of Halloween or hashtag on Twitter once a day from the @halofweenatx account.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Leroy James Rosales",
-  "url" : "https://leroyjames.net",
+  "author": "Leroy Rosales",
+  "url": "https://leroyrosales.com",
   "license": "ISC",
   "dependencies": {
     "twit": "^2.2.9"
